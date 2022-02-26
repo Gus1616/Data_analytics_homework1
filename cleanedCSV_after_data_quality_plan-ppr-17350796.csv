@@ -560,7 +560,6 @@ Date of Sale (dd/mm/yyyy),Address,Postal Code,County,Price (€),Not Full Market
 2011-07-18,"19 The Grove, Millbrook Lawns, Dublin 12",,Dublin,207000.0,No,No,Second-Hand Dwelling house /Apartment,,2011,7
 2013-01-18,"No 8 Blackrock Trerrace, Bantry, Co Cork",,Cork,70000.0,No,No,Second-Hand Dwelling house /Apartment,,2013,1
 2017-02-17,"148 ACHA BHILE, LAHINCH ROAD, ENNIS",,Clare,79000.0,No,Yes,New Dwelling house /Apartment,less than 38 sq metres,2017,2
-2020-11-20,"Units 51-54 Sruthan Na Sailí, & Apts.1-18 Árasáin Na Sailí, Derreen  Killarney",,Kerry,4096916.28,No,Yes,New Dwelling house /Apartment,,2020,11
 2017-12-14,"GORTEVAN, BARNHILL ROAD, DALKEY",,Dublin,869000.0,No,No,Second-Hand Dwelling house /Apartment,,2017,12
 2017-10-31,"42 THE COURT, DUNBOYNE CASTLE, MEATH",,Meath,212000.0,No,No,Second-Hand Dwelling house /Apartment,,2017,10
 2016-02-11,"19 COSTA NA MARA, ORANMORE, GALWAY",,Galway,175000.0,No,No,Second-Hand Dwelling house /Apartment,,2016,2
@@ -3998,7 +3997,6 @@ Date of Sale (dd/mm/yyyy),Address,Postal Code,County,Price (€),Not Full Market
 2019-05-24,"36 THE CRESCENT, ST WOLSTANS ABBEY, CELBRIDGE",,Kildare,255000.0,No,No,Second-Hand Dwelling house /Apartment,,2019,5
 2021-07-15,"1 GOLDSMITH WAY, BALLYMAHON, CO LONGFORD",,Longford,100000.0,No,No,Second-Hand Dwelling house /Apartment,,2021,7
 2018-05-18,"APT 1, 56 RICHMOND STREET SOUTH, DUBLIN 2",Dublin 2,Dublin,1450000.0,No,No,Second-Hand Dwelling house /Apartment,,2018,5
-2020-01-29,"APT 8-31 THORNLEIGH ROW  APT 3 5, 7 9 AND UNIT 1 BRAMLEY TERRACE, AND 2 4 6 8 10 12 & 14 BRAEBURN TCE",,Dublin,6680000.0,No,No,Second-Hand Dwelling house /Apartment,,2020,1
 2018-07-27,"SAINT ANTHONY'S, 1 CABRA GROVE, CABRA",,Dublin,445000.0,No,No,Second-Hand Dwelling house /Apartment,,2018,7
 2021-03-06,"127 HAZELBURY GREEN PHIBBLESTOWN, CLONEE DUBLIN 15, DUBLIN",Dublin 15,Dublin,385000.0,No,No,Second-Hand Dwelling house /Apartment,,2021,3
 2018-04-27,"NEWTOWN LODGE, NEWTOWN, KILMORE QUAY",,Wexford,260000.0,No,No,Second-Hand Dwelling house /Apartment,,2018,4
@@ -4517,7 +4515,6 @@ Date of Sale (dd/mm/yyyy),Address,Postal Code,County,Price (€),Not Full Market
 2016-07-18,"TULLYALLY, REDCASTLE, CO DONEGAL",,Donegal,135000.0,No,No,Second-Hand Dwelling house /Apartment,,2016,7
 2016-01-25,"1 CLAIRN CRESCENT, CAHEROYN, ATHENRY",,Galway,206090.0,No,No,Second-Hand Dwelling house /Apartment,,2016,1
 2019-08-16,"20 Rahillion Way, Donabate",,Dublin,418502.0,No,Yes,New Dwelling house /Apartment,,2019,8
-2020-08-20,"Block E3  Dublin Landings, North Wall Quay",Dublin 1,Dublin,17151248.0,No,Yes,New Dwelling house /Apartment,,2020,8
 2019-10-23,"247 REGAL PARK, BLACKHORSE AVE, DUBLIN 7",Dublin 7,Dublin,435000.0,No,No,Second-Hand Dwelling house /Apartment,,2019,10
 2021-05-27,"78 MOUNTAIN VIEW DR, BOGHALL RD, BRAY",,Wicklow,440000.0,No,No,Second-Hand Dwelling house /Apartment,,2021,5
 2020-06-19,"4 CRONS GROVE, KILDAVIN, BUNCLODY",,Wexford,45505.0,No,No,Second-Hand Dwelling house /Apartment,,2020,6
@@ -6403,7 +6400,6 @@ Date of Sale (dd/mm/yyyy),Address,Postal Code,County,Price (€),Not Full Market
 2018-03-29,"28 TWIN OAKS, CLONATTIN RD, GOREY",,Wexford,255000.0,No,No,Second-Hand Dwelling house /Apartment,,2018,3
 2021-04-06,"FLAT 2, 44/45 DUBLIN STREET, MONAGHAN",,Monaghan,61250.0,No,No,Second-Hand Dwelling house /Apartment,,2021,4
 2011-11-23,"16 Kylemore  Schoolhouse Road, Monaleen, Castletroy",,Limerick,218000.0,No,Yes,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2011,11
-2020-09-09,"Units 1-24, Block C, Gandon Grove",,Dublin,7405286.34,No,Yes,New Dwelling house /Apartment,,2020,9
 2014-07-14,"44A BALALLY PARK, DUNDRUM, DUBLIN 16",Dublin 16,Dublin,445000.0,No,No,Second-Hand Dwelling house /Apartment,,2014,7
 2016-12-02,"27 MOUNT CLARE COURT, GRAIGUECULLEN, CARLOW",,Carlow,137000.0,No,No,Second-Hand Dwelling house /Apartment,,2016,12
 2019-01-08,"20 TURVEY GROVE, DONABATE, DUBLIN",,Dublin,275000.0,No,No,Second-Hand Dwelling house /Apartment,,2019,1
@@ -7697,7 +7693,6 @@ Date of Sale (dd/mm/yyyy),Address,Postal Code,County,Price (€),Not Full Market
 2020-08-14,"CORRADUA, BAILIEBORO, COUNTY CAVAN",,Cavan,63000.0,No,No,Second-Hand Dwelling house /Apartment,,2020,8
 2019-02-20,"PORT, INVER, DONEGAL",,Donegal,147500.0,No,No,Second-Hand Dwelling house /Apartment,,2019,2
 2019-10-06,"43 cois glaisin walk, johnstown, navan",,Meath,237885.46,No,Yes,New Dwelling house /Apartment,,2019,10
-2014-02-28,"1 ALTO VETRO, GRAND CANAL QUAY, DUBLIN 2",,Dublin,9515419.0,No,No,Second-Hand Dwelling house /Apartment,,2014,2
 2020-03-24,"8 THE COURTYARD, CASTLEDARGAN ESTATE, BALLYGAWLEY",,Sligo,104215.0,No,No,Second-Hand Dwelling house /Apartment,,2020,3
 2015-10-15,"5 PHELAN STREET, RATHVILLY, CO CARLOW",,Carlow,70000.0,No,No,Second-Hand Dwelling house /Apartment,,2015,10
 2016-12-09,"COIS DARA, BLACKLION, GREYSTONES",,Wicklow,550000.0,No,No,Second-Hand Dwelling house /Apartment,,2016,12
@@ -7912,7 +7907,6 @@ Date of Sale (dd/mm/yyyy),Address,Postal Code,County,Price (€),Not Full Market
 2014-01-31,"128 THE FALCON, THE SANCTUARY, JACOBS ISLAND",,Cork,115000.0,No,No,Second-Hand Dwelling house /Apartment,,2014,1
 2021-08-27,"41 Willow Grove, The Willows, Dunshaughlin",,Meath,295154.0,No,Yes,New Dwelling house /Apartment,,2021,8
 2015-02-04,"160 Brightwater, Konocknagore, Crosshaven",,Cork,250000.0,No,No,New Dwelling house /Apartment,greater than or equal to 38 sq metres and less than 125 sq metres,2015,2
-2020-10-29,"1-46 Royal Canal Crescent, Rathborne Park, Dublin 15",,Dublin,16308370.05,No,Yes,New Dwelling house /Apartment,,2020,10
 2021-03-24,"10 SARAN WOOD, KILLARNEY RD, BRAY",,Wicklow,355735.0,No,No,Second-Hand Dwelling house /Apartment,,2021,3
 2015-02-03,"106B PEMBROKE RD, BALLSBRIDGE, DUBLIN 4",Dublin 4,Dublin,567800.0,No,No,Second-Hand Dwelling house /Apartment,,2015,2
 2021-10-12,"152 KNOCKAPHUNTA PARK, CASTLEBAR, MAYO",,Mayo,235000.0,No,No,Second-Hand Dwelling house /Apartment,,2021,10
